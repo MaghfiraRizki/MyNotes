@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589481217870",
+    "project_id": "catatan-harian-2024",
+    "storage_bucket": "catatan-harian-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589481217870:android:59e46869950a7c28c1581f",
+        "android_client_info": {
+          "package_name": "com.example.uas_maghfira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0OwYkS629vfC1PhJAwui0ECw2pKwhLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589481217870:android:4bd1727c5b0b3f1cc1581f",
+        "android_client_info": {
+          "package_name": "dev.triyono.catatan_harian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0OwYkS629vfC1PhJAwui0ECw2pKwhLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
